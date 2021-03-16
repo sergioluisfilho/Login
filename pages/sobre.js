@@ -3,7 +3,7 @@ function Sobre(){
     return (
         <div>
             <h1>Página Inicial</h1>
-            <Link href="/index">
+            <Link href="/">
                 <a>Acessar página Home</a>
             </Link>
         </div>
