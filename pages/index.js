@@ -2,7 +2,7 @@ import Link from 'next/link'
 function Home(){
     return (
         <div>
-            <h1>Página Inicial 2</h1>
+            <h1>Página Inicial 3</h1>
             <Link href="/sobre">
                 <a>Acessar página Sobre</a>
             </Link>
